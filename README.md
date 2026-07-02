@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Kauan Felipe 👋</h1>
+<h1 align="center">Olá, eu sou o Kauan Felipe 👋</h1>
 
 <p align="center">
-  <b>Computer Vision & Data</b> · AI undergrad · Python
+  <b>Visão Computacional & Dados</b> · Estudante de IA · Python
 </p>
 
 <p align="center">
-  📍 Toledo, Paraná — Brazil
+  📍 Toledo, Paraná — Brasil
 </p>
 
 <p align="center">
@@ -20,26 +20,42 @@
 
 <br>
 
-### 🧑‍💻 About me
+### 🧑‍💻 Quem eu sou
 
-- 🎓 AI undergrad at Faculdade Donaduzzi (Toledo, PR — Brazil)
-- 🔎 I work with **computer vision, data analysis and automation** — mostly in Python
-- 🗄️ Comfortable with **SQL** (PostgreSQL / SQL Server) and API testing (Postman)
-- 💼 Background in tech support and e-commerce operations — I turn messy real-world requirements into working systems
-- 🌱 Currently going deeper into image processing, retrieval systems and applied ML
+Sou estudante de **Inteligência Artificial** na Faculdade Donaduzzi, em Toledo (PR), e trabalho com **visão computacional, análise de dados e automação** — quase sempre em Python.
+
+Meu caminho até aqui não foi o mais comum: passei por suporte técnico e operações de e-commerce antes de virar pro lado de dados e IA. Isso me deu uma coisa que nem todo dev tem no começo — eu entendo o problema do cliente antes de sair codando. Sei transformar um requisito bagunçado, do jeito que chega no mundo real, em algo que funciona de verdade.
+
+Não sou de decorar framework da moda. Prefiro entender o que está acontecendo por baixo — como a imagem é processada, como o dado se move, por que a query está lenta.
 
 <br>
 
-### 🛠️ Tech I actually use
+### 🌱 No que estou focado agora
+
+- Aprofundando em **processamento de imagens** e visão computacional aplicada
+- Estudando **sistemas de recuperação de informação** (busca, ranqueamento, similaridade)
+- Colocando a mão em **ML aplicado** — sem pular a parte de entender a matemática por trás
+- Melhorando meu **SQL** e modelagem de banco em projetos reais
+
+<br>
+
+### 🧭 Como eu trabalho
+
+- Gosto de código que **eu consigo explicar** — se não sei justificar, não entendi
+- Prefiro **entregar algo que roda** e ir melhorando, do que travar buscando o perfeito
+- Levo a sério **comunicação clara** — herança dos anos lidando direto com cliente
+- Uso **Linux no dia a dia** e não tenho medo de terminal, log ou documentação chata
+
+<br>
+
+### 🛠️ Ferramentas que eu realmente uso
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,postgres,sqlite,opencv,sklearn,flask,supabase,git,postman,linux&perline=6" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=python,js,postgres,sqlite,opencv,sklearn,flask,supabase,git,postman,linux&perline=6" alt="stack"/>
 </p>
 
 <br>
 
-<br>
-
 <p align="center">
-  <i>Still studying — but shipping something every day.</i>
+  <i>Ainda estudando — mas construindo alguma coisa todo dia.</i>
 </p>
