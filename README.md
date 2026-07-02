@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Kauan Felipe 👋</h1>
+<h1 align="center">Olá, eu sou o Kauan Felipe </h1>
 
 <p align="center">
   <b>Visão Computacional & Dados</b> · Estudante de IA · Python
