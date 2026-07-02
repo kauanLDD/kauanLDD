@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📍 Toledo, Paraná — Brasil
+  📍 Toledo, Paraná Brasil
 </p>
 
 <p align="center">
@@ -22,11 +22,11 @@
 
 ### 🧑‍💻 Quem eu sou
 
-Sou estudante de **Inteligência Artificial** na Faculdade Donaduzzi, em Toledo (PR), e trabalho com **visão computacional, análise de dados e automação** — quase sempre em Python.
+Sou estudante de **Inteligência Artificial** na Faculdade Donaduzzi, em Toledo (PR), e trabalho com **visão computacional, análise de dados e automação**  quase sempre em Python.
 
-Meu caminho até aqui não foi o mais comum: passei por suporte técnico e operações de e-commerce antes de virar pro lado de dados e IA. Isso me deu uma coisa que nem todo dev tem no começo — eu entendo o problema do cliente antes de sair codando. Sei transformar um requisito bagunçado, do jeito que chega no mundo real, em algo que funciona de verdade.
+Meu caminho até aqui não foi o mais comum: passei por suporte técnico e operações de e-commerce antes de virar pro lado de dados e IA. Isso me deu uma coisa que nem todo dev tem no começo  eu entendo o problema do cliente antes de sair codando. Sei transformar um requisito bagunçado, do jeito que chega no mundo real, em algo que funciona de verdade.
 
-Não sou de decorar framework da moda. Prefiro entender o que está acontecendo por baixo — como a imagem é processada, como o dado se move, por que a query está lenta.
+Não sou de decorar framework da moda. Prefiro entender o que está acontecendo por baixo  como a imagem é processada, como o dado se move, por que a query está lenta.
 
 <br>
 
@@ -34,16 +34,16 @@ Não sou de decorar framework da moda. Prefiro entender o que está acontecendo 
 
 - Aprofundando em **processamento de imagens** e visão computacional aplicada
 - Estudando **sistemas de recuperação de informação** (busca, ranqueamento, similaridade)
-- Colocando a mão em **ML aplicado** — sem pular a parte de entender a matemática por trás
+- Colocando a mão em **ML aplicado**  sem pular a parte de entender a matemática por trás
 - Melhorando meu **SQL** e modelagem de banco em projetos reais
 
 <br>
 
 ### 🧭 Como eu trabalho
 
-- Gosto de código que **eu consigo explicar** — se não sei justificar, não entendi
+- Gosto de código que **eu consigo explicar**  se não sei justificar, não entendi
 - Prefiro **entregar algo que roda** e ir melhorando, do que travar buscando o perfeito
-- Levo a sério **comunicação clara** — herança dos anos lidando direto com cliente
+- Levo a sério **comunicação clara** herança dos anos lidando direto com cliente
 - Uso **Linux no dia a dia** e não tenho medo de terminal, log ou documentação chata
 
 <br>
