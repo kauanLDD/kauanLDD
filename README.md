@@ -38,17 +38,6 @@
 
 <br>
 
-### 📌 Featured projects
-
-**🚗 ALPR — Access control by license plate recognition**
-Computer-vision access-control system for buildings/condos. Plate detection with Python + OpenCV/YOLO, PostgreSQL (Supabase) backend storing plate text, image URLs and access logs.
-
-**🎮 SteamMatch — Game recommendation system**
-Content-based recommender over a Steam dataset using TF-IDF + cosine similarity, served through a Flask API with an HTML/JS frontend.
-
-**🌽 Corn image analysis (OpenCV)**
-Plant/area analysis from field images using the ExG vegetation index, connected components and GSD-based area calculation.
-
 <br>
 
 <p align="center">
