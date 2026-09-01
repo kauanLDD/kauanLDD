@@ -7,7 +7,7 @@
 <p align="center">
   <b>Visão Computacional & Dados</b> · Estudante de IA · Python
   <br>
-  📍 Toledo, Paraná — Brasil
+  📍 Toledo, Paraná, Brasil
 </p>
 
 <p align="center">
@@ -24,21 +24,21 @@
 
 ### 🧑‍💻 Quem eu sou
 
-Sou estudante de **Inteligência Artificial** na Faculdade Donaduzzi, em Toledo (PR), e trabalho com **visão computacional, análise de dados e automação** — quase sempre em Python.
+Sou estudante de **Inteligência Artificial** na Faculdade Donaduzzi, em Toledo (PR), e trabalho com **visão computacional, análise de dados e automação**, quase sempre em Python.
 
-Meu caminho até aqui não foi o mais comum: passei por suporte técnico e operações de e-commerce antes de virar pro lado de dados e IA. Isso me deu uma coisa que nem todo dev tem no começo — eu entendo o problema do cliente antes de sair codando. Sei transformar um requisito bagunçado, do jeito que chega no mundo real, em algo que funciona de verdade.
+Meu caminho até aqui não foi o mais comum: passei por suporte técnico e operações de e-commerce antes de virar pro lado de dados e IA. Isso me deu uma coisa que nem todo dev tem no começo. Eu entendo o problema do cliente antes de sair codando. Sei transformar um requisito bagunçado, do jeito que chega no mundo real, em algo que funciona de verdade.
 
-Não sou de decorar framework da moda. Prefiro entender o que está acontecendo por baixo — como a imagem é processada, como o dado se move, por que a query está lenta.
+Não sou de decorar framework da moda. Prefiro entender o que está acontecendo por baixo: como a imagem é processada, como o dado se move, por que a query está lenta.
 
 <br>
 
 ### 🚀 O que eu já construí
 
-**[Gate-Vision](https://github.com/kauanLDD/Gate-Vision)** — Controle de acesso veicular de ponta a ponta: **YOLO** detecta a placa, **EasyOCR** lê os caracteres (com correção específica pro padrão Mercosul), **FastAPI** serve a API, **React** mostra o painel e o **Arduino** abre a cancela.
+**[Gate-Vision](https://github.com/kauanLDD/Gate-Vision):** controle de acesso veicular de ponta a ponta. **YOLO** detecta a placa, **EasyOCR** lê os caracteres (com correção específica pro padrão Mercosul), **FastAPI** serve a API, **React** mostra o painel e o **Arduino** abre a cancela.
 
-**[SteamMatch](https://github.com/kauanLDD/sistema-recomendacao)** — Recomendador de jogos da Steam com interface estilo Tinder. **TF-IDF + similaridade de cosseno** sobre ~122 mil jogos, com estratégia que evolui conforme o usuário interage: aleatório → popularidade → conteúdo.
+**[SteamMatch](https://github.com/kauanLDD/sistema-recomendacao):** recomendador de jogos da Steam com interface estilo Tinder. **TF-IDF + similaridade de cosseno** sobre ~122 mil jogos, com estratégia que evolui conforme o usuário interage: aleatório, depois popularidade, depois conteúdo.
 
-**[pipeline-dados-vendas](https://github.com/kauanLDD/pipeline-dados-vendas)** — ETL completo em **arquitetura Medallion** (bronze/silver/gold) com Pandas sobre 536 mil registros de venda, terminando em SQLite indexado com relatório de qualidade acima de 99% de completude.
+**[pipeline-dados-vendas](https://github.com/kauanLDD/pipeline-dados-vendas):** ETL completo em **arquitetura Medallion** (bronze/silver/gold) com Pandas sobre 536 mil registros de venda, terminando em SQLite indexado com relatório de qualidade acima de 99% de completude.
 
 <br>
 
@@ -46,35 +46,35 @@ Não sou de decorar framework da moda. Prefiro entender o que está acontecendo 
 
 - Aprofundando em **processamento de imagens** e visão computacional aplicada
 - Estudando **sistemas de recuperação de informação** (busca, ranqueamento, similaridade)
-- Colocando a mão em **ML aplicado** — sem pular a parte de entender a matemática por trás
+- Colocando a mão em **ML aplicado**, sem pular a parte de entender a matemática por trás
 - Melhorando meu **SQL** e modelagem de banco em projetos reais
 
 <br>
 
 ### 🧭 Como eu trabalho
 
-- Gosto de código que **eu consigo explicar** — se não sei justificar, não entendi
+- Gosto de código que **eu consigo explicar**: se não sei justificar, não entendi
 - Prefiro **entregar algo que roda** e ir melhorando, do que travar buscando o perfeito
-- Levo a sério **comunicação clara** — herança dos anos lidando direto com cliente
+- Levo a sério **comunicação clara**, herança dos anos lidando direto com cliente
 - Uso **Linux no dia a dia** e não tenho medo de terminal, log ou documentação chata
 
 <br>
 
 ### 🛠️ Ferramentas que eu realmente uso
 
-**Visão computacional & ML** — OpenCV · Ultralytics YOLO · EasyOCR · scikit-learn · NumPy · Pandas
+**Visão computacional e ML:** OpenCV, Ultralytics YOLO, EasyOCR, scikit-learn, NumPy, Pandas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,opencv,sklearn,flask,fastapi&perline=6" alt="CV e ML"/>
 </p>
 
-**Dados & backend** — PostgreSQL · SQLite · Supabase · arquitetura Medallion · REST
+**Dados e backend:** PostgreSQL, SQLite, Supabase, arquitetura Medallion, REST
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase,postman&perline=6" alt="Dados e backend"/>
 </p>
 
-**Web & ferramentas**
+**Web e ferramentas**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,vite,html,css,git,github,linux,arduino&perline=9" alt="Web e ferramentas"/>
@@ -95,7 +95,7 @@ Não sou de decorar framework da moda. Prefiro entender o que está acontecendo 
 <br>
 
 <p align="center">
-  <i>Ainda estudando — mas construindo alguma coisa todo dia.</i>
+  <i>Ainda estudando, mas construindo alguma coisa todo dia.</i>
 </p>
 
 ---
